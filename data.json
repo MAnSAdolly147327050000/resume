@@ -1,0 +1,46 @@
+{
+		"basicdetails":{
+			"image":"bb.jpg",
+			"name":"kavya.Eluri",
+			"email":"kavyaeluri12@gmail.com",
+			"phone":"7981881727",
+			"address":"k.rajupalem"
+
+		},
+		"education":[
+			{
+				"course":"B.tech(cse)",
+				"percentage":"jntuk-75%"
+			},
+			{
+				"course":"intermediate",
+				"percentage":"narayana-89%"
+			},
+			{
+				"course":"ssc",
+				"percentage":"bhashyam-92%"
+			}
+		],
+		"skills":[
+			{
+				"name":"Operating System",
+				"value":"Windows,Linux,MAC"
+			},
+			{
+				"name":"Programming Languages",
+				"value":"C,C++,Java,Python"
+			}
+		],
+		"carreer":
+	{
+		"ca":"I wanted to be placed in  MNC companies I want to excel in this field with hard work, perseverance and dedication"
+
+	},
+	"achievements":[
+		"I got second prize in ppt in our college" 
+	],
+	"description":{
+		"d":"we learn css,html,json and js by this workshop"
+	}
+	
+}
